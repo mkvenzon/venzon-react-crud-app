@@ -4,7 +4,7 @@
 
 To run this project locally follow the git command and steps below:
 
-1. git clone
+1. git clone https://github.com/mkvenzon/venzon-react-crud-app.git
 2. npm install
 3. npm run dev
 4. After running the command, Vite will display a local URL, usually: http://localhost:5173 then ctrl + left click the URL and it will run the project!
